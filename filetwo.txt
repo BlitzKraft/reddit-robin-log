@@ -1,11 +1,5 @@
-jump to content
-MY SUBREDDITS
--DASHBOARD-FRONT-ALL-RANDOM-MYRANDOM-FRIENDS-MOD-MODQUEUE-EDIT|
-ELI5-TIL-XKCD-ONEPIECE-OGLAF-GRAVITYFALLS-RICKANDMORTY-POCKETMORTYS
-↑↓><
-reddit.com 
-»blitzkraft (3623 · 31968)|messages|mod messages|preferences||logout
 chat in gbDiatd3etShImUSFoPaocdreaudrCeyarholuicatydayrtzahabwdemJodeFkageisrmjan_sIceribulimaepyIlutatzstnswndeo_lotai_zBekluAeinrt59erghh-ok_tojSWMaNephtrl219rba5n2sky_54ocdurierouutlyug78astu_5leheclagraunrdgosedsns80rsidanemam91nzac91yselssimonuserOM
+
 1:45:46 PM [robin] Welcome to robin. Please type /help or /commands for more information.
 1:45:46 PM Voting will end in approximately 31 minutes
 1:45:46 PM [robin] connecting
@@ -926,15 +920,8 @@ chat in gbDiatd3etShImUSFoPaocdreaudrCeyarholuicatydayrtzahabwdemJodeFkageisrmja
 2:17:38 PM keystone6 CALSEM/ZYGOTE 2016 #StayTHISRound
 2:17:43 PM magykmaster Transfooooor
 2:17:49 PM blitzkraft Grow!!
-140 remaining
 
-
-Abandon
-
-Stay
-
-Grow
-Allow desktop notifications
+# List of users
  gblackwell
  RandyD1906
  atzikki
@@ -1056,7 +1043,4 @@ Allow desktop notifications
  Crabtankerous
  FartKilometre
  ADESONOM
-content policy • report a content policy violation
-Use of this site constitutes acceptance of our User Agreement and Privacy Policy (updated). © 2016 reddit inc. All rights reserved.
-REDDIT and the ALIEN Logo are registered trademarks of reddit inc.
-π 
+
