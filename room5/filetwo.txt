@@ -1,11 +1,4 @@
-jump to content
-MY SUBREDDITS
--DASHBOARD-FRONT-ALL-RANDOM-MYRANDOM-FRIENDS-MOD-MODQUEUE-EDIT|
-ELI5-TIL-XKCD-ONEPIECE-OGLAF-GRAVITYFALLS-RICKANDMORTY-POCKETMORTYS
-↑↓><
-reddit.com 
-»blitzkraft (3630 · 31995)|messages|mod messages|preferences||logout
-chat in IcNehrmmertnthzkenonr6iltannid_ier
+# chat in IcNehrmmertnthzkenonr6iltannid_ier
 1:55:20 AM [robin] Welcome to robin. Please type /help or /commands for more information.
 1:55:20 AM Voting will end in approximately 31 minutes
 1:55:20 AM [robin] connecting
@@ -155,15 +148,8 @@ chat in IcNehrmmertnthzkenonr6iltannid_ier
 2:26:10 AM tehcid blue
 2:26:16 AM absurditas Ahh k
 2:26:22 AM [robin] polls are closing soon, please vote
-140 remaining
 
-
-Abandon
-
-Stay
-
-Grow
-Allow desktop notifications
+# List of users
  Ichikasuto
  Kinsonlee
  Chr12t0pher
@@ -181,7 +167,3 @@ Allow desktop notifications
  tehcid
  Online_i
  fistruler
-content policy • report a content policy violation
-Use of this site constitutes acceptance of our User Agreement and Privacy Policy (updated). © 2016 reddit inc. All rights reserved.
-REDDIT and the ALIEN Logo are registered trademarks of reddit inc.
-π 
